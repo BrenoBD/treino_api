@@ -1,0 +1,1 @@
+Criando um bloco de notas simples com php estrutural.
